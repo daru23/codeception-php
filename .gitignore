@@ -1,0 +1,7 @@
+# IDE style 
+.idea/*
+
+#vendor folder
+vendor/*
+
+tests/_output/*
